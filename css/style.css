@@ -520,7 +520,7 @@ canvas {
 
 #about h2, #education h2 {
 	font-size: 15px;
-	font-weight: 700;
+	font-weight: 600;
 	margin: 5px 0 20px;
 }
 
@@ -541,7 +541,7 @@ canvas {
 */
 
 .edu-uni-name {
-	font-weight: 700;
+	font-weight: 600;
 }
 
 .edu-year {
